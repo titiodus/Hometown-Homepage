@@ -1,0 +1,74 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Spinnaker', sans-serif;
+}
+
+.hero-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(images/Lagos-beautify.jpg);
+    background-size: cover;
+    padding: 119px 247px 182px 247
+}
+
+#visit-text {
+    background: #1D3557;
+    border-radius: 10px;
+    color: #fff;
+    padding: 5px 12px 5px 12px;
+}
+
+#visit-desc {
+   background: #457B9D; 
+   border-radius: 10px;
+   padding: 5px 12px 5px 12px;
+   color: #fff;
+   margin-top: 0;
+}
+
+.activity-section {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    /* background: #F1FAEE; */
+    background: #9399a5;
+    padding: 58px 0;
+}
+
+.activity-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+h4 {
+    font-weight: 700;
+}
+
+.card-section {
+    width: 400px;
+    height: 294px;
+    background: #97836F;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 25px auto;
+    text-align: center;
+    color: #265071;
+    box-shadow: 0 6px #265071;
+}
+
+.card-section:hover {
+    background: #CEA167;
+}
+
+.card-img {
+    width: 180px;
+    height: 248px;
+    border-radius: 10px;
+    margin-left: 13px;
+}
+
