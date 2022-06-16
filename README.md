@@ -1,4 +1,15 @@
-# title(){return this.options.title||this.options.name}
+# LAGOS - MY HOMETOWN HOMEPAGE
+
+This page was built from scracth by me alone.
+
+It shows a tourist guide page for Lagos State
+
+I used HTML and CSS to develop this page.
+
+1. I implemented flex box in all section of the page
+2. Generated my color palette from the background picture in the Hero section of the page using colors.co
+3. I used hover effect on my card at the bottom of the page
+4. Used the Google font Spinnaker
 
 ## Supporting Scrimba
 
